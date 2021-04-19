@@ -1,0 +1,1 @@
+Termometro con Pygames C--F
